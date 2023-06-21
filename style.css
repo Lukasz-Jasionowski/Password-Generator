@@ -90,7 +90,7 @@ body {
   background: #f1c80b;
 }
 
-.pass-indicator#weak::before {
+.pass-indicator#strong::before {
   width: 100%;
   background: #43a047;
 }
