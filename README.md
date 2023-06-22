@@ -7,6 +7,6 @@ Lowercase letters are blocked as a requirement in the password.
 Depending on the strength of the password, the indicator has three colours: red, yellow, green.
 
 # Screenshots
-![App Screenshot](https://i.ibb.co/ZMg7Z36/pc1.png)
+![App Screenshot](https://i.ibb.co/ZgZjpqj/pc1-Small.png)
 
-![App Screenshot](https://i.ibb.co/BBYTGQn/m1.png)
+![App Screenshot](https://i.ibb.co/0r0vfvN/m1-Phone.png)
